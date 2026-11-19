@@ -23,8 +23,6 @@ The project demonstrates how to blink an LED using Arduino UNO.
 4. LED turns OFF for 1 second.
 5. This process repeats continuously.
 
-![Arduino LED Blink Circuit](Screenshot 2026-11-19 234836.png)
-
 ## Arduino Code
 The code is available in `LED_Blink.ino`.
 
